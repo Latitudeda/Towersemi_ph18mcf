@@ -1,5 +1,5 @@
-Tower Semiconductor PH18MCF Documentation
-=============================================
+Tower Semiconductor PH18MCF documentation
+============================================
 
 .. toctree::
    :hidden:
